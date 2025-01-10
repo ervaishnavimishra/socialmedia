@@ -56,12 +56,12 @@ langflow run
 This project is easy to replicate using the provided sample data:
 
 ### Get the Data
-- Check the mockdata folder for the sample dataset 
+- Check the dataset.csv file for the sample dataset 
 - Contains 25 social media posts with likes, comments, shares, etc.
 - Real-world engagement patterns included
+- Upload this data in your astra db
 ### Set Up the Flow
-- Import the Langflow JSON from the src folder
-- Found in: src/langflow_social_analytics.json
+- Import the Langflow JSON file (assignment.json)
 - This sets up the entire workflow automatically
 ### Configure DataStax
 - Use your Astra DB credentials
