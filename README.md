@@ -29,8 +29,7 @@ I built this tool to help analyze social media content performance using DataSta
 ## Installation
 1. **Clone the repository**  
    ```bash
-   git clone [your-repo-url]
-   cd level_supermind_assignment
+   git clone https://github.com/ervaishnavimishra/socialmedia.git
 ## Set Up Environment Variables
 
 ### Run the following command to create the `.env` file:
